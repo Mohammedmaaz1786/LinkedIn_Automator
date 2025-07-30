@@ -13,6 +13,7 @@ A Chrome extension that helps automate various LinkedIn tasks with AI-powered fe
   - Automate post creation with text and images
   - AI-generated captions and content insights
   - Hashtag suggestions
+  - More Visibility
 
 - **Feed Scrolling**
   - Automatic feed scrolling
